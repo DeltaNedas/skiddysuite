@@ -1,5 +1,7 @@
 #!/usr/bin/env lua5.3
 
+-- Place in your AutoBlue directory.
+
 local Args = {...}
 
 local Help = {
